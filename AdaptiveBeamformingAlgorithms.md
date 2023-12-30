@@ -40,6 +40,19 @@ Key outputs of the script include:
 These results are crucial for evaluating the effectiveness of each beamforming algorithm.
 
 #### Additional Resources
-For a more detailed overview, including visual aids, refer to the presentation slides linked below:
+Project presentation slides linked below:
 
 [Adaptive Beamforming Algorithms - Slide Presentation](https://www.slideshare.net/M_A_Abuibaid/adaptive-beamforming-algorithms-116173636)
+
+#### Citation
+If you find this project useful for your research or if you reference it in your work, please consider citing it.
+
+```
+@misc{AbuibaidM2016Beamforming,
+  author = {Mohammed Abuibaid},
+  title = {Comparison of Adaptive Beamforming Algorithms},
+  year = {2016},
+  howpublished = {\url{https://github.com/[YourUsername]/[YourRepositoryName]}},
+  note = {GitHub repository}
+}
+```
