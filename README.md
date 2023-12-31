@@ -70,7 +70,7 @@ Below is a collection of sample projects that I have worked on during my educati
 
 ##### GitHub Repository [Link](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)
 
-### Energy-efficient massive MIMO system: Exploiting user location distribution variation
+### Energy-efficient Massive MIMO Systems: Exploiting User Location Distribution Variation
 
 #### Description
 - This project investigates the impact of user location distribution (ULD) variation on the energy efficiency of a massive MIMO system in 5G networks.
