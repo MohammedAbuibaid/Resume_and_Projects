@@ -70,6 +70,15 @@ Below is a collection of sample projects that I have worked on during my educati
 
 #### GitHub Repository [Link](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)
 
+## Energy-efficient massive MIMO system: Exploiting user location distribution variation
+
+### Description
+- This project investigates the impact of user location distribution (ULD) variation on the energy efficiency of a massive MIMO system in 5G networks.
+- It proposes dynamic resource allocation strategies that leverage ULD variations, modeling daily ULD changes by dividing a cell into areas with different user densities. The study assesses variations such as boundary focused, middle focused, uniform, and center focused ULDs.
+- The research concludes that optimal antenna numbers depend more on ULD models than on cell loading. Findings show that up to one-third of active antennas can be deactivated daily, potentially conserving 36–50% of energy.
+- Contributes to the development of more energy-efficient designs in 5G systems, offering practical solutions for dynamic resource allocation in real-world scenarios.
+
+#### GitHub Repository [Link](https://github.com/MohammedAbuibaid/EnergyEfficientMassiveMIMO_ULD)
 
 ## Energy-Efficient Massive MIMO Design: Optimal Number of Antennas Ensuring Guaranteed Bit Rate
 
@@ -98,4 +107,18 @@ Below is a collection of sample projects that I have worked on during my educati
 - Additionally, the project assesses the latency performance of MPPK/DS over various network types including 5G, WiFi, and local area networks, providing vital insights into the suitability of PQC algorithms in the quantum computing era.
 
 #### GitHub Repository [Link](https://github.com/AtinderPalSingh/Analysis-on-MPPK-DS-algorithm-)
+
+## Edge Workloads Monitoring and Failover: a StarlingX-Based Testbed Implementation and Measurement Study
+
+### Description
+- This project focuses on High Availability (HA) in Edge Clouds, addressing challenges in the Distributed Cloud Infrastructure (DCI) due to geographical dispersion and networking instability.
+- It features the development and optimization of a dynamic failover functionality using StarlingX, an HA-protected and scalable DCI virtualization platform. This functionality monitors Edge workloads, specifically for IoT applications, to efficiently recover from deployment or Edge node failures.
+- A key part of the study involves testing with a StarlingX-based DCI testbed, monitoring microservice-architected IoT applications, and analyzing failover measurements in relation to Edge resource and network speed constraints.
+
+#### GitHub Repository [Link](https://github.com/MohammedAbuibaid/Stx_DCI_Failover)
+
+
+
+
+
 
