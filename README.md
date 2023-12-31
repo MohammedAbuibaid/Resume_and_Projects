@@ -1,8 +1,10 @@
 # Mohammed Abuibaid
-## Curriculum Vitae documented on December 30, 2023
+
+*Abridged Curriculum Vitae - Documented on December 30, 2023*
+
+**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid)
 
 **Contact:** [Email](mailto:m.a.abuibaid@gmail.com)  
-**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid)
 
 ## Summary of Qualifications
 - Pursuing PhD research in 5G-TSN/DetNet integration for industrial automation.
