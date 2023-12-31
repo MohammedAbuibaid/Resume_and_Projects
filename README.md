@@ -13,7 +13,7 @@
 - In process of obtaining professional engineer certification with the Professional Engineers Ontario Association.
 
 ## Relevant Experience
-### MITACS Research intern, Ericsson Canada Inc.
+### MITACS Research Intern, Ericsson Canada Inc.
 *Kanata, ON, Canada (Jun 2021 - Jun 2023)*  
 [Project Web-Page](https://carleton.ca/ericsson/5g-tsn-for-industry-4-0/)  
 - Integrated TSN and DetNet reliability standards with 5G Time-sensitive Communication.
