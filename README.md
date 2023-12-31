@@ -68,7 +68,7 @@ Below is a collection of sample projects that I have worked on during my educati
 - Dynamically adjusts antenna array weights for optimal signal quality, incorporating comprehensive performance analysis including Bit Error Rate (BER) and antenna array beam pattern visualization.
 - Experiment setup involves a QPSK-modulated signal transmitter, interfering signals, and a receiver with a uniform linear array of antennas, enabling the exploration of algorithm effectiveness under varying signal-to-noise ratios.
 
-### GitHub Repository [Link](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)
+#### GitHub Repository [Link](https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms)
 
 
 ## Energy-Efficient Massive MIMO Design: Optimal Number of Antennas Ensuring Guaranteed Bit Rate
@@ -78,7 +78,24 @@ Below is a collection of sample projects that I have worked on during my educati
 - Utilizes symmetric game theory's best response approach to numerically solve energy efficiency optimization in a multi-cell network under GBR constraints.
 - Incorporates a data traffic model that accounts for different user equipment capabilities and mobile data applications, translating them into GBR levels.
 
-### GitHub Repository [Link](https://github.com/MohammedAbuibaid/energy-efficient-mMIMO-design)
+#### GitHub Repository [Link](https://github.com/MohammedAbuibaid/energy-efficient-mMIMO-design)
+
+## SDN-based Service Discovery and Assignment Framework to Preserve Service Availability in Telco-based Multi-Access Edge Computing
+
+### Description
+- This project addresses the challenge of maintaining high service availability in Telco-based Multi-Access Edge Computing (MEC) amid the growing number of connected User Equipment (UE), such as IoT devices and Connected Autonomous Vehicles (CAVs).
+- It proposes an SDN-based dynamic framework for efficient service discovery and assignment in a distributed MEC infrastructure, considering UE's location, service demand, network link status, and performance requirements.
+- The framework aims to enhance the packet delivery ratio and reduce user-perceived latency, addressing key issues in 3GPP standards related to UE mobility and network heterogeneity.
+
+#### GitHub Repository [Link](https://github.com/nephilimboy/SDN_based_Service_Discovery_and_Assignment_Framework)
 
 
+## Multivariate Polynomial Public Key Digital Signature Algorithm: Semi-covariance Analysis and Performance Test over 5G Networks
+
+### Description
+- This project evaluates the robustness of the Multivariate Polynomial Public Key (MPPK) Digital Signature algorithm, a Post Quantum Cryptography (PQC) algorithm, against brute force attacks using semi-covariance correlation analysis.
+- It involves generating MPPK/DS key pairs with true random numbers from quantum computers and comparing their robustness with traditional RSA and SPHINCS algorithms.
+- Additionally, the project assesses the latency performance of MPPK/DS over various network types including 5G, WiFi, and local area networks, providing vital insights into the suitability of PQC algorithms in the quantum computing era.
+
+#### GitHub Repository [Link](https://github.com/AtinderPalSingh/Analysis-on-MPPK-DS-algorithm-)
 
