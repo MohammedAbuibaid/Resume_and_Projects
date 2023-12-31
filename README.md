@@ -1,6 +1,63 @@
-# ResumeStuff
-Collection of samples of course projects
+# Mohammed Abuibaid
+## Curriculum Vitae documented on December 30, 2023
 
+**Contact:** [Email](mailto:m.a.abuibaid@gmail.com)  
+**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid)
+
+## Summary of Qualifications
+- Pursuing PhD research in 5G-TSN/DetNet integration for industrial automation.
+- Decade-long experience in creating adaptive wireless communication systems.
+- Nokia 5G Systems Associate, CENGN Cloud Systems Specialist, Cisco Certified Network Associate.
+- In process of obtaining professional engineer certification with the Professional Engineers Ontario Association.
+
+## Relevant Experience
+### MITACS Research intern, Ericsson Canada Inc.
+*Kanata, ON, Canada (Jun 2021 - Jun 2023)*  
+[Project Web-Page](https://carleton.ca/ericsson/5g-tsn-for-industry-4-0/)  
+- Integrated TSN and DetNet reliability standards with 5G Time-sensitive Communication.
+- Published research at IEEE CSCN 2023, TSN/A Conference 2022, and more.
+- Developed 5G User Equipment for practical experimentation.
+
+### Research Assistant, Carleton University
+*Ottawa, ON, Canada (Sep 2019 - Apr 2024)*  
+- Assisted in research projects on Edge Computing, 5G Networks, and Post-Quantum Cryptography.
+- Published research in various IEEE conferences and journals.
+
+### Teaching Assistant, Carleton University
+*Ottawa, ON, Canada (Sep 2019 - Apr 2024)*  
+- Assisted in courses like 5G Networks, Software Validation, Web Development, etc.
+
+### Technical Configurations Expert, Nokia Solutions and Networks
+*Budapest, Hungary (Nov 2016 - Aug 2019)*  
+- Audited and facilitated technical solutions for Nokia GSM, WCDMA, LTE, and NR solutions.
+
+### Research Assistant, Kocaeli University
+*Izmit, Kocaeli, Turkey (Sep 2015 - Nov 2016)*  
+- Assisted in research on energy-efficient Massive MIMO design.
+
+### Radio Frequency and Optimization Engineer, Ooredoo Palestine
+*Al-Bireh, West Bank, Palestine (May 2013 - Dec 2014)*  
+- Investigated and optimized radio network performance indicators.
+
+## Education
+
+### PhD Candidate in Systems and Computer Engineering, A+
+*Carleton University, Ottawa, ON, Canada (Sep 2019 - present)*  
+- Dissertation: Reliability-Centric Communication for Future Industrial Automation.
+
+### MSc in Electronics and Communication Engineering, A+
+*Kocaeli University, Izmit, Kocaeli, Turkey (Sep 2015 - May 2018)*  
+- Thesis: Energy-efficient Massive MIMO Design.
+- CGPA: 4.00/4.00, High Distinction.
+
+### BSc in Telecommunication Engineering, A-
+*An-Najah National University, Nablus, West Bank, Palestine (Sep 2008 - May 2013)*  
+- Capstone Project: A Toolbox for WCDMA Radio Access Network Dimensioning.
+- CGPA: 3.50/4.00, Graduated with Honours, ABET-accredited Program.
+
+
+## Selected Projects
+Below is a collection of sample projects that I have worked on during my education
 
 ## Comparison of Adaptive Beamforming Algorithms
 
