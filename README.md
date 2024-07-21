@@ -1,13 +1,13 @@
 # Mohammed Abuibaid
 
-*Abridged Curriculum Vitae - Documented on December 30, 2023*
+*Abridged Curriculum Vitae - Documented on July, 2024*
 
-**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid)
+**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/)
 
-**Contact:** [Email](mailto:m.a.abuibaid@gmail.com)  
+**Contact:** [Email](mailto:m.a.abuibaid@gmail.com)
 
 ## Summary of Qualifications
-- Pursuing PhD research in 5G-TSN/DetNet integration for industrial automation.
+- Completed PhD research in 5G-TSN/DetNet integration for industrial automation.
 - Decade-long experience in creating adaptive wireless communication systems.
 - Nokia 5G Systems Associate, CENGN Cloud Systems Specialist, Cisco Certified Network Associate.
 - In process of obtaining professional engineer certification with the Professional Engineers Ontario Association.
@@ -74,19 +74,19 @@ Below is a collection of sample projects that I have worked on during my educati
 
 ## Relevant Experience
 ### MITACS Research Intern, Ericsson Canada Inc.
-*Kanata, ON, Canada (Jun 2021 - Jun 2023)*  
+*Kanata, ON, Canada (Jun 2021 - Aug 2024)*  
 [Project Web-Page](https://carleton.ca/ericsson/5g-tsn-for-industry-4-0/)  
 - Integrated TSN and DetNet reliability standards with 5G Time-sensitive Communication.
 - Published research at IEEE CSCN 2023, TSN/A Conference 2022, and more.
 - Developed 5G User Equipment for practical experimentation.
 
 ### Research Assistant, Carleton University
-*Ottawa, ON, Canada (Sep 2019 - Apr 2024)*  
+*Ottawa, ON, Canada (Sep 2019 - Aug 2024)*  
 - Assisted in research projects on Edge Computing, 5G Networks, and Post-Quantum Cryptography.
 - Published research in various IEEE conferences and journals.
 
 ### Teaching Assistant, Carleton University
-*Ottawa, ON, Canada (Sep 2019 - Apr 2024)*  
+*Ottawa, ON, Canada (Sep 2019 - Aug 2024)*  
 - Assisted in courses like 5G Networks, Software Validation, Web Development, etc.
 
 ### Technical Configurations Expert, Nokia Solutions and Networks
