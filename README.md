@@ -2,7 +2,7 @@
 
 *Abridged Curriculum Vitae - Documented on July, 2024*
 
-**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid) | [LinkedIn](https://www.linkedin.com/in/maabuibaid/)
+**Profiles:** [GoogleScholar](https://scholar.google.com/citations?user=sMW0F94AAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Mohammed-Abuibaid) | [SlideShare](https://www.slideshare.net/M_A_Abuibaid) 
 
 **Contact:** [Email](mailto:m.a.abuibaid@gmail.com)
 
